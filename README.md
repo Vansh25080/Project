@@ -34,7 +34,7 @@ The application connects to the following API:
 
 1. Launch Android Studio
 2. Select "New Project" from version control
-3. Copy this link and paste it into https://github.com/Vansh25080/FinalAssessment and click "Clone"
+3. Copy this link and paste it into "https://github.com/Vansh25080/FinalAssessment" and click "Clone"
 4. Wait for the Gradle sync to complete
 
 
